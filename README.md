@@ -39,17 +39,17 @@ WeatherJakarta/
 ```
 
 ## ▶️ How to Run
-1. Clone repo ini
-2. Buka Katalon Studio → Open Project → pilih folder ini
-3. Set API Key di `Profiles/default` → variabel `API_KEY`
+1. Clone this repository
+2. Open Katalon Studio → Open Project → select this folder
+3. Set the API key in `Profiles/default` → `API_KEY` variable
 4. Run `Test Suites/TestSuites`
-5. Lihat report di tab Log Viewer atau folder `Reports/`
+5. View the report in the Log Viewer tab or the `Reports/` folder
 
 ## 🔑 Setup API Key
-Daftar gratis di [openweathermap.org](https://openweathermap.org) →
-My API Keys → copy key → paste ke variabel `API_KEY` di Profiles.
+Sign up for free at [openweathermap.org](https://openweathermap.org) →
+My API Keys → copy key → paste it into the `API_KEY` variable in Profiles.
 
-> ⚠️ Jangan commit API key asli ke repository publik.
+> ⚠️ Do not commit your actual API key to a public repository.
 
 ## 📊 Test Result
 | TC | Scenario | Status |
